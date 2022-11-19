@@ -1,0 +1,27 @@
+{
+  "name": "castells_bot",
+  "version": "1.0.0",
+  "description": "Bot for auto oferting in subastascastells.com",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ilarramendi/castells_bot.git"
+  },
+  "author": "ilarramendi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ilarramendi/castells_bot/issues"
+  },
+  "homepage": "https://github.com/ilarramendi/castells_bot#readme",
+  "devDependencies": {
+    "@types/node": "^18.11.9"
+  },
+  "dependencies": {
+    "json-to-table": "^4.2.1",
+    "puppeteer": "^19.2.2"
+  }
+}
